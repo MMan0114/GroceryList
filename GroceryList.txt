@@ -1,0 +1,12 @@
+All-Natural Yogurt, 12, 0.99, 0.59, true, 2
+Oat Cereal, 1, 4.99, 2.49, false, 2
+Golden Tequila (1.75L), 1, 35.99, 24.99, true, 1
+Full Body Shampoo, 3, 3.99, 3.19, true, 3
+First Aid Ointment, 2, 4.79, 3.99, false, 4
+Alkaline Batteries (8pk AA), 1, 7.99, 5.99, false, 3
+Ibuprofen, 1, 4.99, 4.49, true, 4
+Cherry Soda, 6, 1.25, 0.89, true, 2
+Draft Beer 12-pack, 2, 13.49, 10.99, false, 1
+Laundry Detergent, 1, 12.59, 9.99, false, 3
+Apples (3 lb bag), 1, 5.29, 4.25, true, 2
+Notebook Paper, 2, 1.29, 0.99, false, 3
